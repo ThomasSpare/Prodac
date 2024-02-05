@@ -52,11 +52,11 @@ enlarged when a user hovers over them.
 
 # Technologies
 
-** Languages Used **
+** Languages Used
 HTML, CSS, Javascript
 
 
-** Frameworks, Libraries & Programs Used **
+** Frameworks, Libraries & Programs Used
 SketchBook, VSCODE, Github
 
 
