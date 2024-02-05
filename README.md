@@ -1,35 +1,8 @@
-# The Kit - On the Road with the fans
+# Swedish Brewery Site
 ##
-
-The Kit is a DJ duo of two girls. The band is touring heavily 
-and they want a site that si like a meeting place for fans. 
-Their fanbase is growing rapidly as they tour the world and their 
-spectacular shows are becoming infamous among fans.
-A page where listeners can discover them, a fan page where fans
-can follow them, stay updated, buy merch or support them
-on channels like Mix-cloud (a sort of youtube for DJs where 
-artists earn money from subscribers).
-
-Fans will come back to the site to stay updated on what´s 
-happening - so the news section is where they will find 
-recent tour photos - some taken by fans, comments from fans, 
-upcoming releases and exclusive content not found anywhere else. 
-The client want the site to look good with high quality photos
-preferably live photos from shows they had. 
-
 ---
 
-Live site - https://thomasspare.github.io/The-Kit-artist-page/
-
-![Preview after build](https://github.com/ThomasSpare/The-Kit-artist-page/blob/de1148b9ee267ce4e80dfc15a8dc66c7c8729513/documentation/responsive.jpg)
-
-----
-
-## Wireframes
-![Wireframe of page before build](https://github.com/ThomasSpare/The-Kit-artist-page/blob/main/documentation/wireframes/Wireframe%20main%20page.png)
-
-
-
+Live site - https://thomasspare.github.io/Prodac/Prodac/
 
 ---
 
