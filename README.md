@@ -9,91 +9,16 @@ Live site - https://thomasspare.github.io/Prodac/Prodac/
 ## Features
 
 
-**Zoom feature**
 
 
-Prior to starting build of the site I did some research on similar
-artists webpages and found a style I liked where the background on
-all pages consist of high-res photos that will start to zoom in
-once the visitor opens the page.
-[Reference website: Carl Cox](https://carlcox.com/)
-Using media query the same effect could be possible on smaller devices.
-I also liked the style of menu from Carl Cox site on mobile devices 
-so that was something I wanted to incorporate in the build.
-Unfortunatly build a hamburger navbar was to complicated at my level.
+**Beer of the month**
+Displays special deals each month with a call to action buttton
 
-Using zoom is an effective yet tasteful way to present photos for the user. 
-As these photos are from live shows the goal is to get the users more
-interested in visiting a show.
-
-The page consist of 4 pages, they are accesscible through the navigation
-bar at the top of each page.
-
-The pages are:
-* Main page
-* News 
-* Merch
-* Support
-* Gallery
-
-
-**The Navbar**
-This is a fully responsive navigation that appears on every page. On the intro page the logo appears bigger and stationed on the left side for a more effectful display of the background image. On the main page there is a text area up to the left displaying where the next show will be. The logo act as a return to homepage in the navbar.
-
-**Spotify player**
-On the top main page is a spotify player that the user can press play and hear the bands most popular track.
-The user can also from this player follow the band on spotify. I did some research about tweaking the spotify
-widget. The widget can be tweaked in many ways using spotify developer tools to fit different purposes.
-
-**Merch**
-In the merch section the user can look at merch items designed by the band. In the form at the bottom they can 
-write a request for certain items.
 
 **Gallery**
-In the gallery below are photos that the user can hover over to enlarge them or press a photo to open it 
-in a new tab. This section can be filled with more photos later on.
-![Gallery section](https://github.com/ThomasSpare/The-Kit-artist-page/blob/2b84773be2909c61daa7f26ef5c2fa8c40dbbb73/documentation/gallery.jpg)
-
-**News section**
-In the news section below are two columns. The first column is a fan oriented column displaying photos and comments mostly
-from fans. The right column is where the band can post news and share what is going on like upcoming releases or
-a new design of a merch item.
-![News section](https://github.com/ThomasSpare/The-Kit-artist-page/blob/2b84773be2909c61daa7f26ef5c2fa8c40dbbb73/documentation/news-page.jpg)
-
-**Support section**
-This where links to the bands platforms are gathered. By clicking them the user opens a new tab to the bands user profile on the choosen platform.
-![support page](https://github.com/ThomasSpare/The-Kit-artist-page/blob/ee8d60c3696989ce12761efed875faccf34217a6/documentation/support.jpg)
-
-
-
----
-
-
-# User stories
-
-## Client goals
-* To be able to share news and important information (like next gig, new releases, special events, new products)
-* A place to inspire the audience and encourage them to visit a live show
-* To nurture the connection with fans
-* A way for fans to discover and follow the band on digtal platforms where the band is active
-
-## User goals
-
-**First time visitor**
-* I want to find out more about the Kit and see live photos
-* I want to read news about what is coming up next
-* I want to see where the band is active and explore links to visit their profiles
-
-**Returning visitor goals**
-* I want to stay updated about the band
-* I want to see footage from a live show near my location
-* I want to see live footage from a show I went to
-* I want to see where the band is active and use links to stay updated on their platforms
-
-**Frequent visitor goals**
-* I want to stay updated about the band
-* I want to see if the band choose a photo I took from a show
-* I want to see if a comment I sent to the band was posted
+The images can directly be browsed from the top of the page below the navbar, displaying images
+of the brewery and the people working there. If a user opens any of the lightboxes on the site
+the user can choose to swipe though every image on the site in the window.
 
 ---
 ## Design
@@ -104,6 +29,9 @@ I modified pretty heavily.
 ## Flying Beer Design
 For this effect I used this source code
 ![Make-an-Image-fly-across-the-Screen]https://support.cargo.site/Make-an-Image-Fly-Across-the-Screen
+
+I tweaked this image using Javascript to switch between different beer flavours when flying over the screen.
+The flying beer can will not be diplayed for smaller devices since it is distracting the viewer to much.
 
 ---
 
@@ -132,11 +60,7 @@ The site was deployed to GitHub pages. The steps to deploy as follows:
 4. Select The branch to deploy
 5. The site deployed succesfully
 
-The live link can be found here - https://thomasspare.github.io/The-Kit-artist-page/
-
 ---
-
-
 
 ## Testing
   
