@@ -1,5 +1,6 @@
 # Swedish Brewery Site
-##
+
+![Brewery_site](https://github.com/ThomasSpare/Prodac/blob/main/respomsivesite.jpg)
 ---
 
 Live site - https://thomasspare.github.io/Prodac/Prodac/
