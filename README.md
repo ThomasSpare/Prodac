@@ -36,7 +36,9 @@ The flying beer can will not be diplayed for smaller devices since it is distrac
 
 ## Screenshots
 
-<img src="https://github.com/ThomasSpare/Prodac/blob/main/Prodac/images/beerofmonth.jpg" width="300">
+<img src="https://github.com/ThomasSpare/Prodac/blob/main/Prodac/images/beerofmonth.jpg" width="300"> <img src="https://github.com/ThomasSpare/Prodac/blob/main/Prodac/images/brewery.jpg width="300"> 
+<img src="https://github.com/ThomasSpare/Prodac/blob/main/Prodac/images/Facts.jpg" width="300">  <img src="https://github.com/ThomasSpare/Prodac/blob/main/Prodac/images/team.jpg" width="300"> 
+<img src="https://github.com/ThomasSpare/Prodac/blob/main/Prodac/images/enquiry.jpg" width="300"> 
 ---
 
 ## Accessibility ##
