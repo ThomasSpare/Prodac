@@ -50,13 +50,13 @@ I have used alt text on images and the fonts I picked on google fonts was
 choosen with the purpose of making reading more easy. Most of the the images are also
 enlarged when a user hovers over them.
 
+# Technologies
 
-
-**Languages Used**
+** Languages Used **
 HTML, CSS, Javascript
 
 
-**Frameworks, Libraries & Programs Used**
+** Frameworks, Libraries & Programs Used **
 SketchBook, VSCODE, Github
 
 
@@ -72,21 +72,12 @@ The site was deployed to GitHub pages. The steps to deploy as follows:
 
 ---
 
-## Testing
-  
- **All tests can be found in the documentation folder in my repository**
- [Documentation](https://github.com/ThomasSpare/The-Kit-artist-page/tree/main/documentation)
+# Testing
  
-
-## Lighthouse tests
+## Lighthouse test
  - Lighthouse test on mobile navigation
- ![Lighthouse mobile](https://github.com/ThomasSpare/The-Kit-artist-page/blob/434c942ccd21807033823a4aa11f8bff4fdb4aca/documentation/LH%20mobile.jpg)
-  
- - Lighthouse test on desktop navigation
- [Lighthouse desktop](https://github.com/ThomasSpare/The-Kit-artist-page/blob/434c942ccd21807033823a4aa11f8bff4fdb4aca/documentation/LH%20desktop.jpg)
+ ![Lighthouse mobile](https://github.com/ThomasSpare/Prodac/blob/main/Prodac/images/perf.jpg)
  
-  
-  --
   
 
 
