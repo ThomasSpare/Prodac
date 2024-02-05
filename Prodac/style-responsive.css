@@ -5,25 +5,56 @@
 }
 
 
-
-
 @media(max-width:960px){
 	.container{
-		width: 100%;
+		width: 100vw;
 		padding: 0 25px;
+	}
+	.flier{
+		display: none;
+	}
+	body{
+		max-width: 60vw;
+	}
+	.headercontent{
+		max-width: 60vw;
+	}
+	._4s0y{
+		max-width: 60vw;
+	}
+	#monthbeerimg{
+		margin-top: 66px;
+		width: 75vw;
+	}
+	.picgallery .item {
+		padding: 2vw 2vw;
 	}
 	header{
 		padding: 11px 0 8px 0;
 	}
 	header.fixed{
 		padding: 11px 0 8px 0;
+    	width: 100vw;
 	}
 	a.logo h3{
 		font-size:32px;
 		line-height: 100%;
 	}
+	.picgallery .item .itemcontent {
+		float: left;
+		width: 89vw;
+		overflow: hidden;
+		position: relative;
+	}
 	a.logo img{
-		width: 130px; height: auto;
+		width: 288px;		
+		height: auto;
+	}
+	#u_0_0_JP{
+		width: 57vw;
+	}
+	#u_0_0_F6 > div > div._53mw > div._1o0y{
+		width: 57vw;
 	}
 
 
@@ -90,13 +121,14 @@
 
 
 	.bxslider_wrap{
-		aspect-ratio: 16/10;
+		aspect-ratio: 20/10;
+    	width: 100vw;
 	}
 	.bxslider_wrap .bxslider .slide .slidecontent{
-		padding: 0 0 25px 0;
+		padding: 0 0 135px 0;		
 	}
 	.bxslider_wrap .bxslider .slide .slidecontent h3{
-		font-size:40px;
+		font-size: 30px;
 		max-width: 70%;
 		letter-spacing: -0.2vw;
 	}
@@ -118,6 +150,7 @@
 		padding: 45px 0;
 	}
 	.aboutcontent .contentwrap{
+		width: 93vw;
 		padding: 0 25px;
 	}
 	.aboutcontent .contentwrap h3{
@@ -149,8 +182,15 @@
 	.aboutcontent .contentwrap a.buylink span{
 		font-size:13px;
 	}
-
-
+	.gallery {
+		float: left;
+		width: 93vw;
+		margin: 0 0 0 0;
+		padding: 0 0 0 0;
+	}
+	#page{
+		width: 36vw;
+	}
 
 
 	.picgallery .item .overlay a{
@@ -222,6 +262,7 @@
 
 	.contact{
 		padding: 45px 0;
+		width: 100vw;
 	}
 	.contact h3{
 		font-size:40px;
@@ -264,10 +305,9 @@
 		margin-left: 8px;
 	}
 
-
-
 	footer{
 		padding: 45px 0;
+		width: 100vw;
 	}
 	footer .disclaimer{
 		margin-bottom: 40px;

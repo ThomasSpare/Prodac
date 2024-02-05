@@ -1,3 +1,7 @@
+html{
+	overflow-x: hidden;
+	}
+	
 	* {
 		box-sizing: border-box;
 		margin: 0;
@@ -152,7 +156,7 @@
 
 	a.logo img {
 		float: left;
-		width: 160px;
+		width: 221px;
 		height: auto;
 		margin: 0 0 0 0;
 	}
@@ -483,10 +487,6 @@
 	}
 
 	/* BANNER */
-
-
-
-
 
 	.aboutcontent {
 		float: left;
@@ -903,9 +903,6 @@
 	}
 
 	/* CONTACT */
-
-
-
 
 	footer {
 		float: left;
