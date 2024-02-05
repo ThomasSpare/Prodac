@@ -24,12 +24,12 @@ the user can choose to swipe though every image on the site in the window.
 ---
 ## Design
 
-I started out this project using a template from htmlrev.com which
+I started out this project using a template from [htmlrev.com](htmlrev.com) which
 I modified pretty heavily.
 
 ## Flying Beer Design
 For this effect I used this source code
-![Make-an-Image-fly-across-the-Screen](https://support.cargo.site/Make-an-Image-Fly-Across-the-Screen)
+[Make-an-Image-fly-across-the-Screen](https://support.cargo.site/Make-an-Image-Fly-Across-the-Screen)
 
 I tweaked this image using Javascript to switch between different beer flavours when flying over the screen.
 The flying beer can will not be diplayed for smaller devices since it is distracting the viewer to much.
@@ -52,11 +52,14 @@ enlarged when a user hovers over them.
 
 # Technologies
 
-** Languages Used
+*Languages Used*
+  
 HTML, CSS, Javascript
 
 
-** Frameworks, Libraries & Programs Used
+
+*Frameworks, Libraries & Programs Used*
+  
 SketchBook, VSCODE, Github
 
 
@@ -75,7 +78,7 @@ The site was deployed to GitHub pages. The steps to deploy as follows:
 # Testing
  
 ## Lighthouse test
- - Lighthouse test on mobile navigation
+ - Lighthouse test on Desktop
  ![Lighthouse mobile](https://github.com/ThomasSpare/Prodac/blob/main/Prodac/images/perf.jpg)
  
   
